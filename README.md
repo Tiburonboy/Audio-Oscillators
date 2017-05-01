@@ -4,4 +4,5 @@ Design and analysis of three electronic audio oscillators.  This is a work in pr
 1) Wien bridge
 2) Switched integrator
 3) other?
+
 last update: 1 May 2017
